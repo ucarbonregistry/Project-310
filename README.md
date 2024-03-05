@@ -27,6 +27,7 @@ use of solar photovoltaic technology. The proposed project activity involves ins
 photovoltaic power generation projects at different locations, with a total capacity of 7.39MW.
 
 Power Plant Power [MW] 
+
 Tucana Dwarf 4,3 
 
 Telhados Assai Cristo Rei 0,3
@@ -42,3 +43,13 @@ Telhados Assai Duque de Caxias 0,3
 Telhados Assai Londrina 0,2 
 
 Telhados Assai Rio Verde 0,6
+__________________________
+
+ISSUE DATE: 05/03/2024
+
+total issued: 6496
+
+Serial Number: 0001-000001-006496-UCR-CoU-BR-310-01012021-31122021
+
+Vintage Year: 2021
+__________________________
